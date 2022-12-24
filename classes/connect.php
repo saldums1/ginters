@@ -2,7 +2,7 @@
 
 class Database {
 
-  private $host = "localhost";
+  private $host = "https://saldums1.github.io/";
   private $username = "root";
   private $password = "";
   private $db = "mybook_db";
