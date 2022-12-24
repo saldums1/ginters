@@ -16,7 +16,7 @@
       echo $result;
       echo "</div>";
     } else {
-      header("Location: profile.php");
+      header("Location: index.php");
       die;
     }
     $password = $_POST['password'];
